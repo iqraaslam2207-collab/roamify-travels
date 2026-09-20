@@ -25,8 +25,8 @@ export default function Footer() {
         <div>
           <h3 className="text-white font-semibold mb-4 text-md">Contact Us</h3>
           <ul className="space-y-3 text-sm text-slate-400">
-            <li className="flex items-center"><Phone className="h-4 w-4 mr-2 text-blue-500" /> +92 300 1234567</li>
-            <li className="flex items-center"><Mail className="h-4 w-4 mr-2 text-blue-500" /> info@roamifytravels.com</li>
+            <li className="flex items-center"><Phone className="h-4 w-4 mr-2 text-blue-500" /> +92 300 0000000</li>
+            <li className="flex items-center"><Mail className="h-4 w-4 mr-2 text-blue-500" /> iqraaslam2207@gmail.com</li>
             <li className="flex items-center"><MapPin className="h-4 w-4 mr-2 text-blue-500" /> Main Boulevard, Pakistan</li>
           </ul>
         </div>
